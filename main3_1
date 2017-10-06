@@ -1,0 +1,31 @@
+body {
+    height: 800px;
+}
+
+.one {
+    height: 30px;
+    width: 180px;
+    padding: 15px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    position: fixed;
+    border: dotted;
+}
+
+.two {
+    height: 30px;
+    width: 200px;
+    position: absolute;
+    left: 250px;
+}
+
+.three {
+    height: 30px;
+    width: 180px;
+    position: fixed;
+    border: dotted;
+    top: 570px;
+    padding: 15px;
+    padding-bottom: 20px;
+    
+}
