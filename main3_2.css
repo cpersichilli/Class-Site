@@ -1,0 +1,156 @@
+body {
+ height: 700px;   
+    
+}
+
+.one {
+    height: 650px;
+    width: 75px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+    float: left;
+    border: solid;
+    padding: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px; 
+}
+
+.two {
+    height: 650px;
+    width: 75px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+    padding: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    position: absolute;
+    border: solid;
+    left: 125px;
+    top: 50px;
+}
+
+.three {
+    height: 650px;
+    width: 75px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+    padding: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 10px;
+    position: absolute;
+    border: solid;
+    left: 240px;
+    top: 100px;
+    
+}
+
+.four {
+    height: 650px;
+    width: 75px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+    padding: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    position: absolute;
+    border: solid;
+    left: 360px;
+    top: 150px;
+    
+}
+
+.five {
+    height: 650px;
+    width: 75px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+    padding: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 10px;
+    position: absolute;
+    border: solid;
+    left: 475px;
+    top: 200px;
+}
+
+.six {
+    height: 650px;
+    width: 75px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+    padding: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 10px;
+    position: absolute;
+    border: solid;
+    left: 598px;
+    top: 250px;
+}
+
+.seven {
+    height: 650px;
+    width: 75px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+    padding: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 10px;
+    position: absolute;
+    border: solid;
+    left: 720px;
+    top: 300px;
+}
+
+.eight {
+    height: 650px;
+    width: 75px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+    padding: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 10px;
+    position: absolute;
+    border: solid;
+    left: 840px;
+    top: 350px;
+}
+
+.nine {
+    height: 30px;
+    width: 135px;
+    position: absolute;
+    border: dashed;
+    left: 780px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+    padding-top: 10px;
+    padding-bottom: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
