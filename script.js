@@ -24,4 +24,9 @@ $(document).ready(function(){
             height:'toggle'
         });
     });
+    $("#buttonj").click(function(){
+        $("#journal").animate({
+            height:'toggle'
+        });
+    });
 });
