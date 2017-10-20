@@ -1,0 +1,79 @@
+body {
+    height: auto;
+    width: auto;
+}
+
+.one {
+    height: 40px;
+    width: 300px;
+    position: fixed;
+    left: 200px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+.two {
+    width: 200px;
+    height: 50px;
+    position: absolute;
+    left: 100px;
+    top: 200px;
+}
+
+.three {
+    width: 300;
+    height: 50px;
+    position: absolute;
+    left: 200px;
+    top: 220px;
+}
+
+.four {
+    width: 300;
+    height: 50px;
+    position: absolute;
+    left: 100px;
+    top: 274px;
+}
+
+.five {
+    width: 300;
+    height: 50px;
+    position: absolute;
+    left: 200px;
+    top: 327px;
+}
+
+.six {
+    width: 300;
+    height: 50px;
+    position: absolute;
+    left: 200px;
+    top: 364px;
+}
+
+.seven {
+    width: 300;
+    height: 50px;
+    position: absolute;
+    left: 100px;
+    top: 418px;
+}
+
+.eight {
+    width: 300;
+    height: 50px;
+    position: absolute;
+    left: 200px;
+    top: 508px;
+}
+
+.nine {
+    width: 300;
+    height: 50px;
+    position: absolute;
+    left: 100px;
+    top: 563px;
+}

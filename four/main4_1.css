@@ -1,0 +1,118 @@
+body{
+    width: 1900px;
+    height: 500px;
+}
+
+.title {
+    width: 500px;
+    height: 50px;
+    font-family: fantasy;
+    font-size: 30px;
+    position: absolute;
+    left: 1000px;
+}
+.one {
+    height: 200px;
+    width: 200px;
+    -ms-transform: rotate(7deg); /* IE 9 */
+    -webkit-transform: rotate(7deg); /* Chrome, Safari, Opera */
+    transform: rotate(-7deg);
+    left: 100px;
+    position: relative;
+    font-family: cursive;
+    top: 100px;
+    text-align: right
+}
+
+.two {
+    height: 200px;
+    width: 1000px;
+    -ms-transform: rotate(7deg); /* IE 9 */
+    -webkit-transform: rotate(7deg); /* Chrome, Safari, Opera */
+    transform: rotate(7deg);
+    left: 300px;
+    position: relative;
+    font-family: cursive;
+    top: 90px;
+}
+
+.three {
+    height: 200px;
+    width: 200px;
+    -ms-transform: rotate(7deg); /* IE 9 */
+    -webkit-transform: rotate(7deg); /* Chrome, Safari, Opera */
+    transform: rotate(-7deg);
+    left: 600px;
+    position: absolute;
+    font-family: cursive;
+    text-align: right;
+    top: 20px;
+}
+
+.four {
+    height: 200px;
+    width: 200px;
+    -ms-transform: rotate(7deg); /* IE 9 */
+    -webkit-transform: rotate(7deg); /* Chrome, Safari, Opera */
+    transform: rotate(7deg);
+    left: 800px;
+    position: absolute;
+    font-family: cursive;
+    text-align: right;
+    top: 400px;
+}
+
+.five {
+    height: 200px;
+    width: 400px;
+    left: 900px;
+    position: absolute;
+    font-family: cursive;
+    text-align: center;
+    top: 125px;
+}
+
+.six {
+    height: 200px;
+    width: 400px;
+    left: 1000px;
+    position: absolute;
+    font-family: cursive;
+    text-align: center;
+    top: 300px; 
+}
+
+.seven {
+    height: 200px;
+    width: 200px;
+    -ms-transform: rotate(7deg); /* IE 9 */
+    -webkit-transform: rotate(7deg); /* Chrome, Safari, Opera */
+    transform: rotate(7deg);
+    left: 1450px;
+    position: absolute;
+    font-family: cursive;
+    text-align: right;
+    top: 20px;
+}
+
+.eight {
+    height: 200px;
+    width: 200px;
+    -ms-transform: rotate(7deg); /* IE 9 */
+    -webkit-transform: rotate(7deg); /* Chrome, Safari, Opera */
+    transform: rotate(-7deg);
+    left: 1600px;
+    position: absolute;
+    font-family: cursive;
+    text-align: right;
+    top: 300px;
+}
+
+.nine {
+    height: 100px;
+    width: 1900px;
+    text-align: center;
+    top: 500px;
+    position: absolute;
+    font-size: 200px;
+}
