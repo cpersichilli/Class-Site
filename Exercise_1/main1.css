@@ -1,0 +1,24 @@
+body {
+    height: 3000px;
+}
+
+
+.one {
+    width: 200px;
+    height: 500px;
+    background-color: #434347;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    -ms-transform: rotate(7deg); /* IE 9 */
+    -webkit-transform: rotate(7deg); /* Chrome, Safari, Opera */
+    transform: rotate(7deg);
+    z-index: 1;
+    top: 60px;
+    left: 150px;
+}
+
+
+
+
+

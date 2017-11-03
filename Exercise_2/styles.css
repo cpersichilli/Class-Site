@@ -1,0 +1,70 @@
+body {
+    height: 3500px;
+    
+}
+
+.copy {
+    cursor: copy; 
+}
+
+.large {
+    font-family: arial;
+    font-size: 40px;
+        
+}
+
+.centered {
+ text-align: center;
+ font-style: italic;
+}
+
+.regular {
+    font-weight: 100;
+}
+
+#anchor {
+    top: 3000px;
+    position: absolute;
+}
+
+#letterspace {
+    letter-spacing: 20px;
+}
+
+#rotate {
+    right: 10px;
+    top: 30px;
+    position: fixed;
+    -ms-transform: rotate(7deg); /* IE 9 */
+    -webkit-transform: rotate(7deg); /* Chrome, Safari, Opera */
+    transform: rotate(7deg);
+    
+}
+
+.float1 {
+    float: left;
+    width: 40%;
+    height: 50px;
+    border-style: dotted;
+}
+
+.float2 {
+    float: left;
+    width: 40%;
+    height: 50px;
+    border-style: solid;
+}
+
+#capitalize {
+   text-transform: uppercase;
+   clear: both;
+}
+
+#lineheight {
+    line-height: 10px;
+    clear: both;
+}
+
+a:hover {
+    font-size: 24px;
+}

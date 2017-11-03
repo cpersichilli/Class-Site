@@ -1,0 +1,55 @@
+body {
+    height: 2500px;
+}
+
+.one {
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    background-color: #000000;
+    -ms-transform: rotate(-10deg); /* IE 9 */
+    -webkit-transform: rotate(-10deg); /* Chrome, Safari, Opera */
+    transform: rotate(-10deg);
+    top: 250px;
+    left: 250px;
+    z-index: 4;
+}
+
+.two {
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    background-color: #1d1d1e;
+    -ms-transform: rotate(10deg); /* IE 9 */
+    -webkit-transform: rotate(10deg); /* Chrome, Safari, Opera */
+    transform: rotate(10deg);
+    top: 200px;
+    left: 200px;
+    z-index: 3;
+}
+
+.three {
+    height: 400px;
+    width: 400px;
+    position: absolute;
+    background-color: #2d2d30;
+    -ms-transform: rotate(-10deg); /* IE 9 */
+    -webkit-transform: rotate(-10deg); /* Chrome, Safari, Opera */
+    transform: rotate(-10deg);
+    top: 150px;
+    left: 150px;
+    z-index: 2;
+}
+
+.four {
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    background-color: #434347;
+    -ms-transform: rotate(10deg); /* IE 9 */
+    -webkit-transform: rotate(10deg); /* Chrome, Safari, Opera */
+    transform: rotate(10deg);
+    left: 100px;
+    top: 100px;
+    z-index: 1;
+}

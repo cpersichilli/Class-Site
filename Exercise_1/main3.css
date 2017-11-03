@@ -1,0 +1,33 @@
+body {
+    height: 200px;
+}
+
+.one {
+   height: 50px;
+    width: 50px;
+    position: absolute;
+    background-color: #1d1d1e;
+    top: 80px;;
+    left: 80px;
+    z-index: 3;
+}
+
+.two {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color: white;
+    top: 55px;
+    left: 55px; 
+    z-index: 2;
+}
+
+.three {
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    background-color: #000000;
+    top: 5px;
+    left: 5px;
+    z-index: 1
+}
