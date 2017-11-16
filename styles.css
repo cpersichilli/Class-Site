@@ -43,6 +43,22 @@ a {
     box-shadow: 0px 0px 30px lightcoral;
 }
 
+.insta {
+    width: 300px;
+    height: 55px;
+    background-color: palegoldenrod;
+    position: absolute;
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+    top: 180px;
+    left: 45%;
+}
+
+.insta:hover {
+    box-shadow: 0px 0px 30px palegoldenrod;
+}
+
 .one {
     width: 300px;
     height: 55px;
@@ -51,7 +67,7 @@ a {
     text-align: center;
     font-family: sans-serif;
     color: white;
-    top: 180px;
+    top: 260px;
     left: 45%;
 }
 
@@ -67,7 +83,7 @@ a {
     text-align: center;
     font-family: sans-serif;
     color: white;
-    top: 260px;
+    top: 340px;
     left: 45%;
 }
 
@@ -83,7 +99,7 @@ a {
     text-align: center;
     font-family: sans-serif;
     color: white;
-    top: 340px;
+    top: 420px;
     left: 45%;
 }
 
