@@ -1,0 +1,95 @@
+body {
+    width: 100%;
+    height: auto;
+    background-color: black
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    padding-top: 4px;
+}
+
+.twentyfive {
+    width: 300px;
+    height: 55px;
+    background-color: skyblue;
+    position: absolute;
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+    left: 45%;
+    top: 20px;
+}
+
+.twentyfive:hover {
+    box-shadow: 0px 0px 30px skyblue;
+}
+
+.micro {
+    width: 300px;
+    height: 55px;
+    background-color: lightcoral;
+    position: absolute;
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+    top: 100px;
+    left: 45%;
+}
+
+.micro:hover {
+    box-shadow: 0px 0px 30px lightcoral;
+}
+
+.one {
+    width: 300px;
+    height: 55px;
+    background-color: plum;
+    position: absolute;
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+    top: 180px;
+    left: 45%;
+}
+
+.one:hover {
+    box-shadow: 0px 0px 30px plum;
+}
+
+.two {
+    width: 300px;
+    height: 55px;
+    background-color: lightgreen;
+    position: absolute;
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+    top: 260px;
+    left: 45%;
+}
+
+.two:hover {
+    box-shadow: 0px 0px 30px lightgreen;
+}
+
+.three {
+    width: 300px;
+    height: 55px;
+    background-color: lightsalmon;
+    position: absolute;
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+    top: 340px;
+    left: 45%;
+}
+
+.three:hover {
+    box-shadow: 0px 0px 30px lightsalmon;
+}
+
+
+

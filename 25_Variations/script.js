@@ -1,6 +1,6 @@
 $(document).ready(function(){
     $("#button1").click(function(){
-        $("#one").animate({
+        $("#flex-item-3").animate({
             height:'toggle'
         });
     });
