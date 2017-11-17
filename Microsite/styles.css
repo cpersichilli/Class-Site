@@ -96,9 +96,6 @@ body {
 /*    background-color: red;*/
     font-family: sans-serif;
     padding-top: 10px;
-    -webkit-columns: 100px 3;
-    -moz-columns: 100px 3;
-    columns: 100px 3;
     color: lightyellow;
     font-size: 20px;
     padding-right: 30px;
@@ -154,4 +151,22 @@ h5 {
 
 p {
     color: whitesmoke;
+}
+
+.colone {
+    width: 75%;
+    
+    
+}
+
+.coltwo {
+    width: 75%;
+    
+    
+}
+
+.colthree {
+    width: 75%;
+    
+    
 }
