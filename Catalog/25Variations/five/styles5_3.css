@@ -1,0 +1,305 @@
+body {
+    height: auto;
+    width: 1420;
+/*    align-content: center;*/
+    text-align: center;
+/*    align-items: center;*/
+}
+
+#one {
+    height: 20px;
+    width: 655px;
+/*    background-color: crimson;*/
+    position: absolute;
+    color: crimson;
+/*    align-items: center;*/
+    margin-left: 25%;
+    margin-right: 50%;
+    
+}
+
+#two {
+    height: 30px;
+    width: 655px;
+    color: orangered;
+    position: absolute;
+    display: none;
+    top: 40px;
+    margin-left: 25%;
+    margin-right: 50%;
+}
+
+#three {
+    height: 30px;
+    width: 655px;
+    color: orange;
+    position: absolute;
+    display: none;
+    top: 70px;
+    margin-left: 25%;
+    margin-right: 50%;
+}
+
+#four {
+    height: 30px;
+    width: 655px;
+    color: yellow;
+    position: absolute;
+    display: none;
+    top: 100px;
+    margin-left: 25%;
+    margin-right: 50%;
+}
+
+#five {
+    height: 30px;
+    width: 655px;
+    color: greenyellow;
+    position: absolute;
+    display: none;
+    top: 130px;
+    margin-left: 25%;
+    margin-right: 50%;
+}
+
+#six {
+    height: 30px;
+    width: 655px;
+    color: limegreen;
+    position: absolute;
+    display: none;
+    top: 160px;
+    margin-left: 25%;
+    margin-right: 50%;
+}
+
+#seven {
+    height: 30px;
+    width: 655px;
+    color: green;
+    position: absolute;
+    display: none;
+    top: 185px;
+    margin-left: 25%;
+    margin-right: 50%;
+}
+
+#eight {
+    height: 30px;
+    width: 655px;
+    color: lightseagreen;
+    position: absolute;
+    display: none;
+    top: 215px;
+    margin-left: 25%;
+    margin-right: 50%;
+}
+
+#nine {
+    height: 30px;
+    width: 655px;
+    color: powderblue;
+    position: absolute;
+    display: none;
+    top: 245px;
+    margin-left: 25%;
+    margin-right: 50%;
+}
+
+#ten {
+    height: 30px;
+    width: 655px;
+    color: lightskyblue;
+    position: absolute;
+    display: none;
+    top: 274px;
+    margin-left: 25%;
+    margin-right: 50%;
+}
+
+#eleven {
+    height: 30px;
+    width: 655px;
+    color: deepskyblue;
+    position: absolute;
+    display: none;
+    top: 305;
+    margin-left: 25%;
+    margin-right: 50%;
+}
+
+#twelve {
+    height: 30px;
+    width: 655px;
+    color: dodgerblue;
+    position: absolute;
+    display: none;
+    top: 335;
+    margin-left: 25%;
+    margin-right: 50%;
+}
+
+#thirteen {
+    height: 30px;
+    width: 655px;
+    color: royalblue;
+    position: absolute;
+    display: none;
+    top: 365px;
+    margin-left: 25%;
+    margin-right: 50%;
+}
+
+#fourteen {
+    height: 30px;
+    width: 655px;
+    color: mediumblue;
+    position: absolute;
+    display: none;
+    top: 395px;
+    margin-left: 25%;
+    margin-right: 50%;
+}
+
+#fifteen {
+    height: 30px;
+    width: 655px;
+    color: blue;
+    position: absolute;
+    display: none;
+    top: 425px;
+    margin-left: 25%;
+    margin-right: 50%;
+}
+
+#sixteen {
+    height: 30px;
+    width: 655px;
+    color: midnightblue;
+    position: absolute;
+    display: none;
+    top: 453px;
+    margin-left: 25%;
+    margin-right: 50%;
+}
+
+#seventeen {
+    height: 30px;
+    width: 655px;
+    color: indigo;
+    position: absolute;
+    display: none;
+    top: 480px;
+    margin-left: 25%;
+    margin-right: 50%;
+}
+
+#eighteen {
+    height: 30px;
+    width: 655px;
+    color: rebeccapurple;
+    position: absolute;
+    display: none;
+    top: 510px;
+    margin-left: 25%;
+    margin-right: 50%;
+}
+
+#nineteen {
+    height: 30px;
+    width: 655px;
+    color: mediumpurple;
+    position: absolute;
+    display: none;
+    top: 540px;
+    margin-left: 25%;
+    margin-right: 50%;
+}
+
+#twenty {
+    height: 30px;
+    width: 655px;
+    color: purple;
+    position: absolute;
+    display: none;
+    top: 570px;
+    margin-left: 25%;
+    margin-right: 50%;
+}
+
+#twentyone {
+    height: 30px;
+    width: 655px;
+    color: darkviolet;
+    position: absolute;
+    display: none;
+    top: 600px;
+    margin-left: 25%;
+    margin-right: 50%;
+}
+
+#twentytwo {
+    height: 30px;
+    width: 655px;
+    color: violet;
+    position: absolute;
+    display: none;
+    top: 630px;
+    margin-left: 25%;
+    margin-right: 50%;
+}
+
+#twentythree {
+    height: 30px;
+    width: 655px;
+    color: palevioletred;
+    position: absolute;
+    display: none;
+    top: 660px;
+    margin-left: 25%;
+    margin-right: 50%;
+}
+
+#twentyfour {
+    height: 30px;
+    width: 655px;
+    color: mediumvioletred;
+    position: absolute;
+    display: none;
+    top: 695px;
+    margin-left: 25%;
+    margin-right: 50%;
+}
+
+#twentyfive {
+    height: 30px;
+    width: 655px;
+    color: red;
+    position: absolute;
+    display: none;
+    top: 725px;
+    margin-left: 25%;
+    margin-right: 50%;
+}
+
+#twentysix {
+    height: 30px;
+    width: 655px;
+    color: orangered;
+    position: absolute;
+    display: none;
+    top: 755px;
+    margin-left: 25%;
+    margin-right: 50%;
+}
+
+#twentyseven {
+    height: 30px;
+    width: 655px;
+    color: orange;
+    position: absolute;
+    display: none;
+    top: 785;
+    margin-left: 25%;
+    margin-right: 50%;
+}

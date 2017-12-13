@@ -1,0 +1,110 @@
+body {
+    background-color: aquamarine;
+}
+
+.container {
+    display: flex;
+    height: auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.flexone {
+    background-color: black;
+    display: inline-flex;
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    flex: none | [ <'flex-grow'> <'flex-shrink'>? || <'flex-basis'> ]
+}
+
+.flextwo {
+    background-color: darkcyan;
+    display: inline-flex;
+    height: 200px;
+    width: 350px;
+    margin: 10px;
+    flex: none | [ <'flex-grow'> <'flex-shrink'>? || <'flex-basis'> ]
+}
+
+.flexthree {
+    background-color: palevioletred;
+    display: inline-flex;
+    height: 200px;
+    width: 120px;
+    margin: 10px;
+    flex: none | [ <'flex-grow'> <'flex-shrink'>? || <'flex-basis'> ]
+}
+
+.flexfour {
+    background-color: palevioletred;
+    display: inline-flex;
+    height: 200px;
+    width: 110px;
+    margin: 10px;
+    flex: none | [ <'flex-grow'> <'flex-shrink'>? || <'flex-basis'> ]
+}
+
+.flexfive {
+    background-color: palevioletred;
+    display: inline-flex;
+    height: 200px;
+    width: 110px;
+    margin: 10px;
+    flex: none | [ <'flex-grow'> <'flex-shrink'>? || <'flex-basis'> ]
+}
+
+.flexsix {
+    background-color: darkcyan;
+    display: inline-flex;
+    height: 200px;
+    width: 450px;
+    margin: 10px;
+    flex: none | [ <'flex-grow'> <'flex-shrink'>? || <'flex-basis'> ]
+}
+
+.flexseven {
+    background-color: darkcyan;
+    display: inline-flex;
+    height: 150px;
+    width: 230px;
+    margin: 10px;
+    flex: none | [ <'flex-grow'> <'flex-shrink'>? || <'flex-basis'> ]
+}
+
+.flexeight {
+    background-color: palevioletred;
+    display: inline-flex;
+    height: 150px;
+    width: 75px;
+    margin: 10px;
+    flex: none | [ <'flex-grow'> <'flex-shrink'>? || <'flex-basis'> ]
+}
+
+.flexnine {
+    background-color: palevioletred;
+    display: inline-flex;
+    height: 150px;
+    width: 75px;
+    margin: 10px;
+    flex: none | [ <'flex-grow'> <'flex-shrink'>? || <'flex-basis'> ]
+}
+
+.flexten {
+    background-color: black;
+    display: inline-flex;
+    height: 150px;
+    width: 123px;
+    margin: 10px;
+    flex: none | [ <'flex-grow'> <'flex-shrink'>? || <'flex-basis'> ]
+}
+
+.flexeleven {
+    background-color: black;
+    display: inline-flex;
+    height: 150px;
+    width: 123px;
+    margin: 10px;
+    flex: none | [ <'flex-grow'> <'flex-shrink'>? || <'flex-basis'> ]
+}

@@ -1,0 +1,32 @@
+$(document).ready(function(){
+    $("#button1").click(function(){
+        $("#flex-item-3").animate({
+            height:'toggle'
+        });
+    });
+    $("#button2").click(function(){
+        $("#two").animate({
+            height:'toggle'
+        });
+    });
+    $("#button3").click(function(){
+        $("#three").animate({
+            height:'toggle'
+        });
+    });
+    $("#button4").click(function(){
+        $("#four").animate({
+            height:'toggle'
+        });
+    });
+    $("#button5").click(function(){
+        $("#five").animate({
+            height:'toggle'
+        });
+    });
+    $("#buttonj").click(function(){
+        $("#journal").animate({
+            height:'toggle'
+        });
+    });
+});

@@ -1,0 +1,48 @@
+body {
+    width: auto;
+    height: 20000px;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+
+h2 {
+    color: white;
+}
+
+#title {
+    width: auto;
+    height: 25px;
+    background-color: rebeccapurple;
+}
+
+#one {
+    width: 655;
+    height: 200px;
+    position: absolute;
+    top: 50px;
+    background-color: coral;
+    color: white;
+    display: none;
+}
+
+#two {
+    width: 655;
+    height: 200px;
+    position: absolute;
+    top: 250px;
+    background-color: deeppink;
+    color: white;
+    display: none;
+}
+
+#three {
+    width: 655;
+    height: 180px;
+    position: absolute;
+    top: 450px;
+    background-color: deepskyblue;
+    color: white;
+    display: none;
+}

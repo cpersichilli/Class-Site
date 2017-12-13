@@ -1,0 +1,76 @@
+.header {
+        width: 100%;
+        height: 30px;
+/*        background-color: black;*/
+        position: absolute;
+        text-align: center;
+    }
+
+
+@media screen and (max-width: 1500px) {
+
+	body{
+	background-color: lightcyan;
+    margin-left: 10%
+        
+    }
+    .body1 {
+        width: 45%;
+        height: 300px;
+        position: absolute;
+        background-color: white;
+        top: 25%;
+    }
+    .body2 {
+        width: 45%;
+        height: 300px;
+        position: absolute;
+        background-color: black;
+        top: 25%;
+        left: 50%
+    }
+}
+
+@media screen and (max-width: 1024px) {
+
+    body {
+        background-color: lightcoral;
+    }
+}
+
+
+
+@media screen and (max-width: 768px) {
+
+    body {
+        background-color: lightblue;
+    }
+}
+
+
+
+@media screen and (max-width: 600px) {
+	
+    body {
+        background-color: lightgreen
+    }
+}
+
+
+
+@media screen and (max-width: 480px) {
+
+    body {
+        background-color: lightgoldenrodyellow
+    }
+}
+
+
+@media screen and (max-width: 320px) {
+    
+    body {
+        background-color: lightgray;
+    }
+}
+
+

@@ -1,0 +1,279 @@
+body {
+    height: auto;
+    width: 2400px
+}
+
+.one {
+    height: 20px;
+    width: 170px;
+    position: absolute;
+    border-style: double;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    
+}
+
+.two {
+    height: 20px;
+    width: 170px;
+    position: absolute;
+    border-style: double;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    left: 200px;
+}
+
+.three {
+    height: 20px;
+    width: 170px;
+    position: absolute;
+    border-style: double;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    top: 50px;
+}
+
+.four {
+    height: 20px;
+    width: 170px;
+    position: absolute;
+    border-style: double;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    top: 50px;
+    left: 200px;
+}
+
+.five {
+    height: 20px;
+    width: 170px;
+    position: absolute;
+    border-style: double;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    top: 50px;
+    left: 392px;
+}
+
+.six {
+    height: 20px;
+    width: 170px;
+    position: absolute;
+    border-style: double;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    top: 92px;
+    
+}
+
+.seven {
+    height: 20px;
+    width: 170px;
+    position: absolute;
+    border-style: double;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    top: 92px;
+    left: 200px
+}
+
+.eight {
+    height: 20px;
+    width: 170px;
+    position: absolute;
+    border-style: double;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    top: 92px;
+    left: 392px;
+}
+
+.nine {
+    height: 20px;
+    width: 170px;
+    position: absolute;
+    border-style: double;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    top: 134px;
+}
+
+.ten {
+    height: 20px;
+    width: 170px;
+    position: absolute;
+    border-style: double;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    top: 134px;
+    left: 200px;
+}
+
+.eleven {
+    height: 20px;
+    width: 170px;
+    position: absolute;
+    border-style: double;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    top: 134px;
+    left: 392px;
+}
+
+.twelve {
+    height: 20px;
+    width: 170px;
+    position: absolute;
+    border-style: double;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    top: 134px;
+    left: 584px;
+}
+
+.thirteen {
+    height: 20px;
+    width: 170px;
+    position: absolute;
+    border-style: double;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    top: 177px;
+    
+}
+
+.fourteen {
+    height: 20px;
+    width: 170px;
+    position: absolute;
+    border-style: double;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    top: 220px;
+    
+}
+
+.fifteen {
+    height: 20px;
+    width: 170px;
+    position: absolute;
+    border-style: double;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    top: 220px;
+    left: 200px;   
+}
+
+.sixteen {
+    height: 20px;
+    width: 170px;
+    position: absolute;
+    border-style: double;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    top: 220px;
+    left: 392px;
+}
+
+.seventeen {
+    height: 20px;
+    width: 170px;
+    position: absolute;
+    border-style: double;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    top: 220px;
+    left: 584px;
+}
+
+.eighteen {
+    height: 20px;
+    width: 170px;
+    position: absolute;
+    border-style: double;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    top: 220px;
+    left: 776px;
+}
+
+.nineteen {
+    height: 20px;
+    width: 170px;
+    position: absolute;
+    border-style: double;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    top: 220px;
+    left: 969px;
+    
+}
+
+.twenty {
+    height: 20px;
+    width: 170px;
+    position: absolute;
+    border-style: double;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    top: 220px;
+    left: 1162px;
+}
+
+blah. {
+    height: 20px;
+    width: 170px;
+    position: relative;
+    border-style: double;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    top: 500px;
+    left: 1200px;
+}
+
+twentytwo. {
+    
+    
+}

@@ -1,0 +1,47 @@
+body {
+    height: 1200px;
+    width: 1200px; 
+    align-content: center;
+    align-items: center;
+}
+
+.button {
+    background-color: white;
+    color: black;
+    border: 2px solid rebeccapurple;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    width: 900px;
+    font-size: 16px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    position: absolute;
+
+}
+
+/*
+.button1 {
+    background-color: white;
+    color: black;
+    border: 2px solid rebeccapurple;
+}
+*/
+
+.button:hover {
+    background-color: rebeccapurple;
+    color: white;
+}
+
+div {
+    background-color: rebeccapurple;
+    height: 710px;
+    width: 900;
+    position: absolute;
+    top: 60px;
+    text-align: center;
+    color: white;
+    display: none;
+}
