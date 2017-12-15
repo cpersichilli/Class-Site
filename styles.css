@@ -7,16 +7,25 @@ body {
     margin: 0;
 }
 
+#container {
+    height: 100vh;
+    width: 100vh;
+    background-color: aqua;
+    position: absolute;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
 div {
     font-family: sans-serif;
 }
 
 #one {
-    height: 700px;
-    width: 1000px;
+    height: 100%;
+    width: 55vh;
     background-color: aqua;
     -webkit-transform: perspective(500px) rotatex(-10deg);
-    position: absolute;
+    position: relative;
     top: 100px;
     left: 100px;
     box-shadow: 0px 0px 15px #888888;
@@ -26,19 +35,20 @@ div {
 
 #oneone {
     height: 700px;
-    width: 200px;
+    width: 20vh;
 /*    background-color: linear-gradient(to bottom, rgba(0,0,0,0.65) 0%,rgba(0,0,0,0) 100%);*/
     background-color: ;
     -webkit-transform: perspective(500px) rotatex(-10deg);
     position: absolute;
     top: 100px;
-    left: 1200px;
+    left: 75vh;
+/*    background-color: red;*/
     
 }
 
 #two {
-    height: 700px;
-    width: 1000px;
+    height: 100%;
+    width: 55vh;
     background-color: brown;
     -webkit-transform: perspective(500px) rotatex(-10deg);
     position: absolute;
@@ -48,17 +58,17 @@ div {
 }
 
 #twotwo {
-    height: 700px;
-    width: 200px;
+    height: 100%;
+    width: 20vh;
     background-color: ;
     -webkit-transform: perspective(500px) rotatex(-10deg);
     position: absolute;
     top: 200px;
-    left: 1200px;
+    left: 75vh;
 }
 #three {
-    height: 700px;
-    width: 1000px;
+    height: 100%;
+    width: 55vh;
     background-color: purple;
     -webkit-transform: perspective(500px) rotatex(-10deg);
     position: absolute;
@@ -69,17 +79,17 @@ div {
 
 #threethree {
     height: 700px;
-    width: 200px;
+    width: 20vh;
     background-color: ;
     -webkit-transform: perspective(500px) rotatex(-10deg);
     position: absolute;
     top: 300px;
-    left: 1200px;
+    left: 75vh;
 }
 
 #four {
-    height: 700px;
-    width: 1000px;
+    height: 100%;
+    width: 55vh;
     background-color: green;
     -webkit-transform: perspective(500px) rotatex(-10deg);
     position: absolute;
@@ -90,17 +100,17 @@ div {
 
 #fourfour {
     height: 700px;
-    width: 200px;
+    width: 20vh;
     background-color: ;
     -webkit-transform: perspective(500px) rotatex(-10deg);
     position: absolute;
     top: 400px;
-    left: 1200px;
+    left: 75vh;
 }
 
 #five {
-    height: 700px;
-    width: 1000px;
+    height: 100%;
+    width: 55vh;
     background-color: yellow;
     -webkit-transform: perspective(500px) rotatex(-10deg);
     position: absolute;
@@ -111,17 +121,17 @@ div {
 
 #fivefive {
     height: 700px;
-    width: 200px;
+    width: 20vh;
     background-color: ;
     -webkit-transform: perspective(500px) rotatex(-10deg);
     position: absolute;
     top: 500px;
-    left: 1200px;
+    left: 75vh;
 }
 
 #six {
-    height: 700px;
-    width: 1000px;
+    height: 100%;
+    width: 55vh;
     background-color: palevioletred;
     -webkit-transform: perspective(500px) rotatex(-10deg);
     position: absolute;
@@ -132,17 +142,17 @@ div {
 
 #sixsix {
     height: 700px;
-    width: 200px;
+    width: 20vh;
     background-color: ;
     -webkit-transform: perspective(500px) rotatex(-10deg);
     position: absolute;
     top: 600px;
-    left: 1200px;
+    left: 75vh;
 }
 
 #seven {
-    height: 700px;
-    width: 1000px;
+    height: 100%;
+    width: 55vh;
     background-color: olive;
     -webkit-transform: perspective(500px) rotatex(-10deg);
     position: absolute;
@@ -153,17 +163,17 @@ div {
 
 #sevenseven {
     height: 700px;
-    width: 200px;
+    width: 20vh;
     background-color: ;
     -webkit-transform: perspective(500px) rotatex(-10deg);
     position: absolute;
     top: 700px;
-    left: 1200px;
+    left: 75vh;
 }
 
 #eight {
-    height: 700px;
-    width: 1000px;
+    height: 100%;
+    width: 55vh;
     background-color: orangered;
     -webkit-transform: perspective(500px) rotatex(-10deg);
     position: absolute;
@@ -174,17 +184,17 @@ div {
 
 #eighteight {
     height: 700px;
-    width: 200px;
+    width: 20vh;
     background-color: ;
     -webkit-transform: perspective(500px) rotatex(-10deg);
     position: absolute;
     top: 800px;
-    left: 1200px;
+    left: 75vh;
 }
 
 #nine {
-    height: 700px;
-    width: 1000px;
+    height: 100%;
+    width: 55vh;
     background-color: burlywood;
     -webkit-transform: perspective(500px) rotatex(-10deg);
     position: absolute;
@@ -195,17 +205,17 @@ div {
 
 #ninenine{
     height: 700px;
-    width: 200px;
+    width: 20vh;
     background-color: ;
     -webkit-transform: perspective(500px) rotatex(-10deg);
     position: absolute;
     top: 900px;
-    left: 1200px;
+    left: 75vh;
 }
 
 #ten {
-    height: 700px;
-    width: 1000px;
+    height: 100%;
+    width: 55vh;
     background-color: black;
     -webkit-transform: perspective(500px) rotatex(-10deg);
     position: absolute;
@@ -216,17 +226,17 @@ div {
 
 #tenten {
     height: 700px;
-    width: 200px;
+    width: 20vh;
     background-color: ;
     -webkit-transform: perspective(500px) rotatex(-10deg);
     position: absolute;
     top: 1000px;
-    left: 1200px;
+    left: 75vh;
 }
 
 #eleven {
-    height: 700px;
-    width: 1000px;
+    height: 100%;
+    width: 55vh;
     background-color: black;
     -webkit-transform: perspective(500px) rotatex(-10deg);
     position: absolute;
@@ -237,18 +247,18 @@ div {
 
 #eleveneleven {
     height: 700px;
-    width: 200px;
+    width: 20vh;
     background-color: ;
     -webkit-transform: perspective(500px) rotatex(-10deg);
     position: absolute;
     top: 1100px;
-    left: 1200px;
+    left: 75vh;
 }
 
 #twelve {
-    height: 700px;
-    width: 1000px;
-    background-color: black;
+    height: 100%;
+    width: 55vh;
+/*    background-color: red;*/
     -webkit-transform: perspective(500px) rotatex(-10deg);
     position: absolute;
     top: 1200px;
@@ -258,17 +268,17 @@ div {
 
 #twelvetwelve {
     height: 700px;
-    width: 200px;
+    width: 20vh;
     background-color: ;
     -webkit-transform: perspective(500px) rotatex(-10deg);
     position: absolute;
     top: 1200px;
-    left: 1200px;
+    left: 75vh;
 }
 
 #thirt {
-    height: 700px;
-    width: 1000px;
+    height: 50vh;
+    width: 55vh;
     background-color: black;
     -webkit-transform: perspective(500px) rotatex(-10deg);
     position: absolute;
@@ -278,19 +288,19 @@ div {
 }
 
 #thirtthirt {
-    height: 700px;
-    width: 200px;
+    height: 100%;
+    width: 20vh;
     background-color: ;
     -webkit-transform: perspective(500px) rotatex(-10deg);
     position: absolute;
     top: 1300px;
-    left: 1200px;
+    left: 75vh;
 }
 
 #fourt {
-    height: 700px;
+    height: 100%;
     width: 1000px;
-    background-color: black;
+    background-color: red;
     -webkit-transform: perspective(500px) rotatex(-10deg);
     position: absolute;
     top: 1400px;
